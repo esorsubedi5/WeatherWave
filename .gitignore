@@ -1,0 +1,82 @@
+.env
+node_modules/
+obj/
+package.json
+package-lock.json
+WeatherWave.pyproj
+WeatherWave.pyproj.user
+venv/
+build/
+public/
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+__pycache__/
+init.py
+migrations/
+templates/
+
+env
+__pycache__/
+*$py.class
+.cach/
+.cache/
+*.pyc
+*.pyo
+*.pyd
+docs/_build
+**/migrations/*.py
+**/migrations/*.pyc
+venv/
+.vscode
+*.pid
+.idea/
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+package-lock.json
+README.md
+package.json
+.vs
+
+dd.js
+__init__.py
